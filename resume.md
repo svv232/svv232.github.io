@@ -1,1 +1,5 @@
+---
+layout: page
+title: Resume
+---
 {% include resume.md %}
