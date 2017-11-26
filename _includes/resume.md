@@ -1,16 +1,19 @@
 SAI VEGASENA
------------
-{:style="text-align:center;min-height:12vh"}
+===============
 
+{:style="text-align:center;min-height:30vh"}
 
-svegas18.me
-svv232@nyu.edu
-469-426-2844
-github.com/svv232
+-------------------------
+
+Website: svegas18.me
+Email:   svv232@nyu.edu
+Github:  github.com/svv232
+
+--------------------------
 
 
 Projects
-
+--------
 - Web Scrapers for automated checking for simple we vulnerabilities
 - Bluetooth and device hacking 
 - PiBrain Product
@@ -18,28 +21,31 @@ Projects
 
 
 Experience
-Software Engineer at PiBrain
+----------
+:   **Software Engineer at PiBrain 12/17 - Current
 
-OSIRIS Security Lab Researcher and CTF Team Member
+:   OSIRIS Security Lab Researcher and CTF Team Member 11/16 - Current**
 
-CTFs
-CSAW 2017 Organizer and problem writer
-HSF 2017 Problem Writer
+CTF
+----
+:   **CSAW 2017: Organizer and Problem Writer
 
-Languages/Technologies
+:   HSF 2017: Problem Writer**
 
+-Notable Placements
+
+Languages
+---------
 C Rust Python Bash C++ HTML CSS Javascript
 
-Tensorflow, Pwntools, Cargo, Docker, Pwndbg, IDA pro,
-Binary Ninja, Heroku, Flask, Processing, SQLlite/SQLi,Jekyll, Facebook API
-Openai
+Technologies/Skills
+------------
+* Tensorflow, Pwntools, Cargo, Docker, Pwndbg, IDA pro,
+Binary Ninja, Heroku, Flask, Processing, SQLi,Jekyll, Facebook API
+Openai API
 
-Web Hacking, Reversing Engineering, Binary Exploitation
+* Web Hacking, Reversing Engineering, Binary Exploitation
 
 Education
-New York University B.S in Computer Science
-- can add classes and coursework
-
-- CourseWork
-
-Awards
+----------
+* 2016 - 2020(EXPECTED) New York University B.S in Computer Science
