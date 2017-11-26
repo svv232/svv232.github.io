@@ -1,5 +1,5 @@
-__Sai Vegasena__
----------------------
+Sai Vegasena
+==================
 
 **Website**: *svegas18.me* <br />
 **Email**:   *svv232@nyu.edu* <br />
@@ -7,7 +7,7 @@ __Sai Vegasena__
 
 Projects
 --------
-- Web Scrapers for automated checking for simple we vulnerabilities
+- Scrapers for automated checking for simple web vulnerabilities
 - Bluetooth and device hacking 
 - PiBrain Product
 - Graph and Tree Collection
@@ -15,9 +15,11 @@ Projects
 
 Experience
 ----------
-*Software Engineer at PiBrain*               12/17 - Current
+**Software Engineer at PiBrain**        *12/17 - Current*
+> Seq2Seq implementation with tensorflow to build an effective assistant for small businesses
 
-*OSIRIS Security Lab Researcher and NYUSEC CTF Team Member*          11/16 - Current
+**OSIRIS Security Lab Researcher and NYUSEC CTF Team Member**   *11/16 - Current*
+> Hacking
 
 CTF
 ----
