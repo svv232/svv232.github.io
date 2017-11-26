@@ -6,23 +6,26 @@
 
 <font size ="12" color="393f4d">Projects </font>
 -----------------------------------------
-- ***Bluetooth Takeover***
+***Bluetooth Takeover***
 * *11/17 - Current*
 > stuff
-- ***PiBrain Assistant***
+
+***PiBrain Assistant***
 * *11/17 - Current*
 > stuff
-- ***Graph and Tree Collection*** 
+
+***Graph and Tree Collection*** 
 * *10/16 - Current*
 > stuff
-- ***A Rusty Road***
+
+***A Rusty Road***
 * *10/17 - CSAW 2017 Finals*
 > stuff
 
 <font size = "12" color="393f4d">Experience</font>
 ------------------------------------------
 **Software Engineer at PiBrain**    <*11/17 - Current*> 
-> Seq2Seq implementation using tensorflow and neural machine translation to build a cost effective assistant for small businesses  [pibrain site](pibrain.io)
+> Seq2Seq implementation using tensorflow and neural machine translation to build a cost effective assistant for small businesses  [Pibrain site](pibrain.io)
 
 **OSIRIS Lab Researcher and NYUSEC CTF Team Member**   <*12/16 - Current*>
 > Cybersecurity research lab and NYU CTF Team. Runs CSAW, HSF, and implement modern
