@@ -1,4 +1,5 @@
-__**Sai Vegasena**
+__**Sai Vegasena**__
+---------------------
 
 Website: svegas18.me <br />
 Email:   svv232@nyu.edu <br />
@@ -26,13 +27,13 @@ HSF 2017: Problem Writer
 
 Languages
 ---------
-**C/C++** :
-**Rust**:
-**Python**: 
-**Bash**:
-**HTML**:
-**CSS**:
-**Javascript**:
+**C/C++** : <br />
+**Rust**: <br />
+**Python**: <br />
+**Bash**: <br />
+**HTML**: <br />
+**CSS**: <br />
+**Javascript**: <br />
 
 Technologies/Skills
 -------------------
