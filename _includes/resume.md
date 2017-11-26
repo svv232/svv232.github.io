@@ -1,14 +1,11 @@
 Sai Vegasena
--------------
-{:style="text-align:center;min-height:10vh"}
-
 ========================================================
+{style="text-align:center;min-height:10vh"}
 Website: svegas18.me <br />
 
 Email:   svv232@nyu.edu <br />
 
 Github:  github.com/svv232 <br />
-
 =========================================================
 
 Projects
@@ -21,9 +18,9 @@ Projects
 
 Experience
 ----------
-*Software Engineer at PiBrain*        12/17 - Current
+*Software Engineer at PiBrain*               12/17 - Current
 
-*OSIRIS Security Lab Researcher and NYUSEC CTF Team Member*   11/16 - Current
+*OSIRIS Security Lab Researcher and NYUSEC CTF Team Member*          11/16 - Current
 
 CTF
 ----
