@@ -8,20 +8,20 @@
 -----------------------------------------
 ***Bluetooth Takeover***
 * *12/17 - Current*
-> Current research in taking control of smaller ,vulnerable devices to gain 
+Current research in taking control of smaller ,vulnerable devices to gain 
 greater acces to an entire network.
 
 ***PiBrain Assistant***
 * *11/17 - Current*
-> Modeling an encoder and decoder neural network to simulate language understanding in a virtual assistant; written with tensorflow and powered by GPUs and AWS.
+Modeling an encoder and decoder neural network to simulate language understanding in a virtual assistant; written with tensorflow and powered by GPUs and AWS.
 
 ***Tree Collection*** 
 * *10/16 - Current*
-> A collection of traversal algorithms and tree structures that aid in developing an analytic understanding of algorithm analysis. Currently Implementing a VanEmbde Boa Tree in C to understand O(log log M) search, insert, and delete.
+A collection of traversal algorithms and tree structures that aid in developing a cohesive understanding of algorithm analysis. Currently Implementing a VanEmbde Boa Tree in C to understand O(log log M) search, insert, and delete.
 
 ***A Rusty Road***
 * *10/17 - CSAW 2017 Finals*
-> A Reverse Engineering game involving a hashmaps, breadthfirst traversal, and an
+A Reverse Engineering game involving a hashmaps, breadthfirst traversal, and an
 efficient sieve of eratoshenes written in rust.
 
 <font size = "12" color="393f4d">Experience</font>
