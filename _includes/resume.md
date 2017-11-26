@@ -50,11 +50,11 @@
 ---------------------------------------------------
 
 > **Reverse Engineering/Binary Exploitation**: BinaryNinja, IDA-pro, Pwntools, 
- Pwndbg, GDB
-> **Web**: Heroku, Flask, SQLi, Jekyll, Facebook API, Requests, Git 
-> **ML**: Tensorflow, Openai API
-> **Package Managers/Containers**: Cargo, Docker
-> **Creative**: Processing, Particles.js
+ Pwndbg, GDB <br />
+> **Web**: Heroku, Flask, SQLi, Jekyll, Facebook API, Requests, Git  <br />
+> **ML**: Tensorflow, Openai API <br />
+> **Package Managers/Containers**: Cargo, Docker <br />
+> **Creative**: Processing, Particles.js <br />
 
 <font size = "12" color="393f4d">Education</font>
 -------------------------------------------
