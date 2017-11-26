@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: About me
 permalink:/about-me
 ---
 {% include about-me.md %}
