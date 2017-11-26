@@ -1,6 +1,6 @@
 Sai Vegasena
 ==================
-
+"++++++++++++++++++++++++++++++++++++++++++++++"
 **Website**: *svegas18.me* <br />
 **Email**:   *svv232@nyu.edu* <br />
 **Github**:  *github.com/svv232* <br />
@@ -15,10 +15,10 @@ Projects
 
 Experience
 ----------
-**Software Engineer at PiBrain**        *12/17 - Current*
+**Software Engineer at PiBrain**        <*12/17 - Current*>
 > Seq2Seq implementation with tensorflow to build an effective assistant for small businesses
 
-**OSIRIS Security Lab Researcher and NYUSEC CTF Team Member**   *11/16 - Current*
+**OSIRIS Security Lab Researcher and NYUSEC CTF Team Member**   <*11/16 - Current*>
 > Hacking
 
 CTF
@@ -53,4 +53,4 @@ Technologies/Skills
 
 Education
 ---------
-> **New York University**;  B.S in Computer Science       *<2016 - 2020 (EXPECTED)>*
+> **New York University**;  B.S in Computer Science       *<2016 - 2020 (expected)>*
