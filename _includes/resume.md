@@ -36,19 +36,19 @@ Technologies/Skills
 ------------
 
 -Reverse Engineering/Binary Exploitation
-* Binary Ninja IDA pro Pwntools Pwndbg
+* BinaryNinja, IDA-pro, Pwntools, Pwndbg
 
--Web Hacking
-* Heroku Flask SQLi Jekyll Facebook API Requests 
+-Web
+* Heroku, Flask, SQLi, Jekyll, Facebook API, Requests 
 
-- ML
-* Tensorflow Openai API
+-ML
+* Tensorflow, Openai API
 
 -Packages/Containerization
-* Cargo Docker
+* Cargo, Docker
 
-- Creative
-* Processing Particles.js
+-Creative
+* Processing, Particles.js
 
 Education
 ----------
