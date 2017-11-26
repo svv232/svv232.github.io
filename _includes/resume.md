@@ -1,4 +1,4 @@
-<b> <font size="34" face="verdana"> <center>Sai Vegasena</center> </font></b>
+<b> <font size="34" color="393f4d"> <center>Sai Vegasena</center> </font></b>
 
 **Website**: *svegas18.me* <br />
 **Email**:   *svv232@nyu.edu* <br />
