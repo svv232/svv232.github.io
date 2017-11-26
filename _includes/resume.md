@@ -29,7 +29,7 @@ Languages
 ---------
 **C/C++** : <br />
 **Rust**: <br />
-**Python2.7/3.5/3.6**: <br />
+**Python 2.7/3.5/3.6**: <br />
 **Bash**: <br />
 **HTML**: <br />
 **CSS**: <br />
