@@ -53,4 +53,4 @@ Technologies/Skills
 
 Education
 ---------
-**New York University**; B.S in Computer Science *    2016 - 2020 (EXPECTED)*
+**New York University**;  B.S in Computer Science       *<2016 - 2020 (EXPECTED)>*
