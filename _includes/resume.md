@@ -6,19 +6,22 @@
 
 <font size ="12" color="393f4d">Projects </font>
 -----------------------------------------
-- Scrapers for automated checking for simple web vulnerabilities
-- Bluetooth and device hacking 
-- PiBrain Product
-- Graph and Tree Collection
-- A Rusty Road
+- ***Bluetooth Takeover***
+> stuff
+- ***PiBrain Assistant***
+> stuff
+- ***Graph and Tree Collection***
+> stuff
+- ***A Rusty Road***
+> stuff
 
 <font size = "12" color="393f4d">Experience</font>
 ------------------------------------------
 **Software Engineer at PiBrain**    <*12/17 - Current*> 
-> Seq2Seq implementation using tensorflow to build cost effective assistant for small businesses
+> Seq2Seq implementation using tensorflow and neural machine translation to build a cost effective assistant for small businesses
 
-**OSIRIS Security Lab Researcher and NYUSEC CTF Team Member**   <*11/16 - Current*>
-> Hacking
+**OSIRIS Lab Researcher and NYUSEC CTF Team Member**   <*11/16 - Current*>
+> Cybersecurity 
 
 <font size = "12" color="393f4d">CTF</font>
 ----------------------------------
@@ -31,10 +34,10 @@
 > **C/C++** : <br />
 > **Rust**: <br />
 > **Python 2.7/3.5/3.6**: <br />
-> **Bash**: <br />
-> **HTML**: <br />
-> **CSS**: <br />
-> **Javascript**: <br />
+> **Bash**: Advanced command line usage and scripting useful tasks for projects <br />
+> **HTML**: Building structured webpages<br />
+> **CSS**: Adding pretty,structured design to webpages and applications<br />
+> **Javascript**: Adept at using npm packages and website scripting to efficiently interact with web servers <br />
 
 <font size = "12" color="393f4d">Technologies/Skills</font>
 ---------------------------------------------------
