@@ -25,7 +25,7 @@
 <font size = "12" color="393f4d">Experience</font>
 ------------------------------------------
 **Software Engineer at PiBrain**    <*11/17 - Current*> 
-> Seq2Seq implementation using tensorflow and neural machine translation to build a cost effective assistant for small businesses  [Pibrain site](www.pibrain.io)
+> Seq2Seq implementation using tensorflow and neural machine translation to build a cost effective assistant for small businesses  [Pibrain site](www.pibrain.io/index.html)
 
 **OSIRIS Lab Researcher and NYUSEC CTF Team Member**   <*12/16 - Current*>
 > Cybersecurity research lab and NYU CTF Team. Currently runs CSAW, HSF, and implement modern day exploitation practices.  [Osiris site](https://osiris.cyber.nyu.edu/index.php/nyusec/)
