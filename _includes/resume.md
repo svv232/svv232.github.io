@@ -21,9 +21,9 @@ Experience
 
 CTF
 ----
-CSAW 2017: Organizer and Problem Writer
+**CSAW 2017**: Organizer and Problem Writer
 
-HSF 2017: Problem Writer
+**HSF 2017**: Problem Writer
 
 Languages
 ---------
@@ -51,5 +51,4 @@ Technologies/Skills
 
 Education
 ---------
-*2016 - 2020 (EXPECTED)* <br />
-        **New York University**; B.S in Computer Science
+*2016 - 2020 (EXPECTED)*: **New York University**; B.S in Computer Science
