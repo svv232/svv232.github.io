@@ -1,5 +1,5 @@
-Sai Vegasena
-=============
+__**Sai Vegasena**
+--------------------
 
 Website: svegas18.me <br />
 Email:   svv232@nyu.edu <br />
@@ -11,7 +11,7 @@ Projects
 - Bluetooth and device hacking 
 - PiBrain Product
 - Graph and Tree Collection
-
+- A Rusty Road
 
 Experience
 ----------
@@ -27,21 +27,27 @@ HSF 2017: Problem Writer
 
 Languages
 ---------
-C Rust Python Bash C++ HTML CSS Javascript
+**C/C++** :
+**Rust**:
+**Python**: 
+**Bash**:
+**HTML**:
+**CSS**:
+**Javascript**:
 
 Technologies/Skills
 -------------------
 
 **Reverse Engineering/Binary Exploitation**
-* BinaryNinja, IDA-pro, Pwntools, Pwndbg
+* BinaryNinja, IDA-pro, Pwntools, Pwndbg, GDB
 
 **Web**
-* Heroku, Flask, SQLi, Jekyll, Facebook API, Requests 
+* Heroku, Flask, SQLi, Jekyll, Facebook API, Requests, Git 
 
 **ML**
 * Tensorflow, Openai API
 
-**Packages/Containerization**
+**Package Managers/Containers**
 * Cargo, Docker
 
 **Creative**
@@ -50,5 +56,4 @@ Technologies/Skills
 Education
 ---------
 *2016 - 2020 (EXPECTED)* <br />
-
    **New York University**; B.S in Computer Science
