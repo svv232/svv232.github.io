@@ -6,7 +6,6 @@ Sai Vegasena
 Website: svegas18.me
 Email:   svv232@nyu.edu
 Github:  github.com/svv232
---------------------------
 
 
 Projects
@@ -19,17 +18,15 @@ Projects
 
 Experience
 ----------
-:   **Software Engineer at PiBrain 12/17 - Current
+Software Engineer at PiBrain        12/17 - Current
 
-:   OSIRIS Security Lab Researcher and CTF Team Member 11/16 - Current**
+OSIRIS Security Lab Researcher and NYUSEC CTF Team Member   11/16 - Current
 
 CTF
 ----
-:**CSAW 2017: Organizer and Problem Writer
+CSAW 2017: Organizer and Problem Writer
 
-:HSF 2017: Problem Writer**
-
--Notable Placements
+HSF 2017: Problem Writer
 
 Languages
 ---------
@@ -37,12 +34,22 @@ C Rust Python Bash C++ HTML CSS Javascript
 
 Technologies/Skills
 ------------
-*Tensorflow, Pwntools, Cargo, Docker, Pwndbg, IDA pro,
-*Binary Ninja, Heroku, Flask, Processing, SQLi,Jekyll, Facebook API
-*Openai API
 
-*Web Hacking, Reversing Engineering, Binary Exploitation
+-Reverse Engineering/Binary Exploitation
+* Binary Ninja IDA pro Pwntools Pwndbg
+
+-Web Hacking
+* Heroku Flask SQLi Jekyll Facebook API Requests 
+
+- ML
+* Tensorflow Openai API
+
+-Packages/Containerization
+* Cargo Docker
+
+- Creative
+* Processing Particles.js
 
 Education
 ----------
-*2016 - 2020(EXPECTED) New York University B.S in Computer Science
+2016 - 2020(EXPECTED) New York University B.S in Computer Science
