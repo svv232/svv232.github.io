@@ -38,22 +38,18 @@ Languages
 Technologies/Skills
 -------------------
 
-**Reverse Engineering/Binary Exploitation**
-* BinaryNinja, IDA-pro, Pwntools, Pwndbg, GDB
+**Reverse Engineering/Binary Exploitation**: BinaryNinja, IDA-pro, Pwntools, 
+ Pwndbg, GDB
 
-**Web**
-* Heroku, Flask, SQLi, Jekyll, Facebook API, Requests, Git 
+**Web**: Heroku, Flask, SQLi, Jekyll, Facebook API, Requests, Git 
 
-**ML**
-* Tensorflow, Openai API
+**ML**: Tensorflow, Openai API
 
-**Package Managers/Containers**
-* Cargo, Docker
+**Package Managers/Containers**: Cargo, Docker
 
-**Creative**
-* Processing, Particles.js
+**Creative**: Processing, Particles.js
 
 Education
 ---------
 *2016 - 2020 (EXPECTED)* <br />
-   **New York University**; B.S in Computer Science
+        **New York University**; B.S in Computer Science
