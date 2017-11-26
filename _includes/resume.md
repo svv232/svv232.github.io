@@ -21,9 +21,9 @@ Experience
 
 CTF
 ----
-**CSAW 2017**: Organizer and Problem Writer
+**CSAW 2017**: *Organizer and Problem Writer*
 
-**HSF 2017**: Problem Writer
+**HSF 2017**: *Problem Writer*
 
 Languages
 ---------
