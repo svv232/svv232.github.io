@@ -1,11 +1,11 @@
-<u>Sai Vegasena</u>
+<u>Sai Vegasena                                                                   </u>
 ==================
 
 **Website**: *svegas18.me* <br />
 **Email**:   *svv232@nyu.edu* <br />
 **Github**:  *github.com/svv232* <br />
 
-<u>Projects</u>
+<u>Projects      </u>
 -----------------
 - Scrapers for automated checking for simple web vulnerabilities
 - Bluetooth and device hacking 
@@ -13,7 +13,7 @@
 - Graph and Tree Collection
 - A Rusty Road
 
-<u>Experience</u>
+<u>Experience    </u>
 -----------------
 **Software Engineer at PiBrain**        <*12/17 - Current*>
 > Seq2Seq implementation with tensorflow to build an effective assistant for small businesses
@@ -21,13 +21,13 @@
 **OSIRIS Security Lab Researcher and NYUSEC CTF Team Member**   <*11/16 - Current*>
 > Hacking
 
-<u>CTF</u>
+<u>CTF           </u>
 -----------
 > **CSAW 2017**: *Organizer and Problem Writer*
 
 > **HSF 2017**: *Problem Writer*
 
-<u>Languages</u>
+<u>Languages     </u>
 ----------------
 > **C/C++** : <br />
 > **Rust**: <br />
@@ -37,7 +37,7 @@
 > **CSS**: <br />
 > **Javascript**: <br />
 
-<u>Technologies/Skills</u>
+<u>Technologies/Skills      </u>
 ---------------------------
 
 > **Reverse Engineering/Binary Exploitation**: BinaryNinja, IDA-pro, Pwntools, 
@@ -51,6 +51,6 @@
 
 > **Creative**: Processing, Particles.js
 
-<u>Education</u>
+<u>Education         </u>
 ---------
 > **New York University**;  B.S in Computer Science       *<2016 - 2020 (expected)>*
