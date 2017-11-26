@@ -23,34 +23,34 @@ Experience
 
 CTF
 ----
-**CSAW 2017**: *Organizer and Problem Writer*
+> **CSAW 2017**: *Organizer and Problem Writer*
 
-**HSF 2017**: *Problem Writer*
+> **HSF 2017**: *Problem Writer*
 
 Languages
 ---------
-**C/C++** : <br />
-**Rust**: <br />
-**Python 2.7/3.5/3.6**: <br />
-**Bash**: <br />
-**HTML**: <br />
-**CSS**: <br />
-**Javascript**: <br />
+> **C/C++** : <br />
+> **Rust**: <br />
+> **Python 2.7/3.5/3.6**: <br />
+> **Bash**: <br />
+> **HTML**: <br />
+> **CSS**: <br />
+> **Javascript**: <br />
 
 Technologies/Skills
 -------------------
 
-**Reverse Engineering/Binary Exploitation**: BinaryNinja, IDA-pro, Pwntools, 
+> **Reverse Engineering/Binary Exploitation**: BinaryNinja, IDA-pro, Pwntools, 
  Pwndbg, GDB
 
-**Web**: Heroku, Flask, SQLi, Jekyll, Facebook API, Requests, Git 
+> **Web**: Heroku, Flask, SQLi, Jekyll, Facebook API, Requests, Git 
 
-**ML**: Tensorflow, Openai API
+> **ML**: Tensorflow, Openai API
 
-**Package Managers/Containers**: Cargo, Docker
+> **Package Managers/Containers**: Cargo, Docker
 
-**Creative**: Processing, Particles.js
+> **Creative**: Processing, Particles.js
 
 Education
 ---------
-**New York University**;  B.S in Computer Science       *<2016 - 2020 (EXPECTED)>*
+> **New York University**;  B.S in Computer Science       *<2016 - 2020 (EXPECTED)>*
