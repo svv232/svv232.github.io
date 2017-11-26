@@ -1,5 +1,5 @@
-<u>Sai Vegasena                                                                   </u>
-==================
+<center><u>Sai Vegasena </u></center>
+======================================
 
 **Website**: *svegas18.me* <br />
 **Email**:   *svv232@nyu.edu* <br />
