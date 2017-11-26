@@ -1,14 +1,11 @@
-SAI VEGASENA
+Sai Vegasena
 ===============
-
-{:style="text-align:center;min-height:30vh"}
+{:style="text-align:center;min-height:10vh"}
 
 -------------------------
-
 Website: svegas18.me
 Email:   svv232@nyu.edu
 Github:  github.com/svv232
-
 --------------------------
 
 
@@ -28,9 +25,9 @@ Experience
 
 CTF
 ----
-:   **CSAW 2017: Organizer and Problem Writer
+:**CSAW 2017: Organizer and Problem Writer
 
-:   HSF 2017: Problem Writer**
+:HSF 2017: Problem Writer**
 
 -Notable Placements
 
@@ -40,12 +37,12 @@ C Rust Python Bash C++ HTML CSS Javascript
 
 Technologies/Skills
 ------------
-* Tensorflow, Pwntools, Cargo, Docker, Pwndbg, IDA pro,
-Binary Ninja, Heroku, Flask, Processing, SQLi,Jekyll, Facebook API
-Openai API
+*Tensorflow, Pwntools, Cargo, Docker, Pwndbg, IDA pro,
+*Binary Ninja, Heroku, Flask, Processing, SQLi,Jekyll, Facebook API
+*Openai API
 
-* Web Hacking, Reversing Engineering, Binary Exploitation
+*Web Hacking, Reversing Engineering, Binary Exploitation
 
 Education
 ----------
-* 2016 - 2020(EXPECTED) New York University B.S in Computer Science
+*2016 - 2020(EXPECTED) New York University B.S in Computer Science
