@@ -1,33 +1,33 @@
-<b> <font size="34"> <center><u>Sai Vegasena </u></center> </font></b>
+<b> <font size="34" face="verdana"> <center>Sai Vegasena</center> </font></b>
 
 **Website**: *svegas18.me* <br />
 **Email**:   *svv232@nyu.edu* <br />
 **Github**:  *github.com/svv232* <br />
 
-<u>Projects      </u>
------------------
+<u><font color="blue">Projects </font></u>
+-----------------------------------------
 - Scrapers for automated checking for simple web vulnerabilities
 - Bluetooth and device hacking 
 - PiBrain Product
 - Graph and Tree Collection
 - A Rusty Road
 
-<u>Experience    </u>
------------------
-**Software Engineer at PiBrain**        <*12/17 - Current*>
-> Seq2Seq implementation with tensorflow to build an effective assistant for small businesses
+<u><font color="blue">Experience</font></u>
+------------------------------------------
+**Software Engineer at PiBrain**        <*12/17 - Current*> 
+> Seq2Seq implementation with tensorflow to build an cost effective assistant for small businesses
 
 **OSIRIS Security Lab Researcher and NYUSEC CTF Team Member**   <*11/16 - Current*>
 > Hacking
 
-<u>CTF           </u>
------------
+<u><font color="blue">CTF</font></u>
+----------------------------------
 > **CSAW 2017**: *Organizer and Problem Writer*
 
 > **HSF 2017**: *Problem Writer*
 
-<u>Languages     </u>
-----------------
+<u><font color="blue">Languages</font></u>
+----------------------------------------
 > **C/C++** : <br />
 > **Rust**: <br />
 > **Python 2.7/3.5/3.6**: <br />
@@ -36,8 +36,8 @@
 > **CSS**: <br />
 > **Javascript**: <br />
 
-<u>Technologies/Skills      </u>
----------------------------
+<u><font color="blue">Technologies/Skills</font></u>
+---------------------------------------------------
 
 > **Reverse Engineering/Binary Exploitation**: BinaryNinja, IDA-pro, Pwntools, 
  Pwndbg, GDB
@@ -50,6 +50,6 @@
 
 > **Creative**: Processing, Particles.js
 
-<u>Education         </u>
----------
+<u><font color="blue">Education</font></u>
+-------------------------------------------
 > **New York University**;  B.S in Computer Science       *<2016 - 2020 (expected)>*
