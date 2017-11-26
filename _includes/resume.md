@@ -1,9 +1,9 @@
-__**Sai Vegasena**__
+__Sai Vegasena__
 ---------------------
 
-Website: svegas18.me <br />
-Email:   svv232@nyu.edu <br />
-Github:  github.com/svv232 <br />
+**Website**: *svegas18.me* <br />
+**Email**:   *svv232@nyu.edu* <br />
+**Github**:  *github.com/svv232* <br />
 
 Projects
 --------
