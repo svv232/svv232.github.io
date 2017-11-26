@@ -28,8 +28,8 @@
 > Seq2Seq implementation using tensorflow and neural machine translation to build a cost effective assistant for small businesses  [Pibrain site](pibrain.io)
 
 **OSIRIS Lab Researcher and NYUSEC CTF Team Member**   <*12/16 - Current*>
-> Cybersecurity research lab and NYU CTF Team. Runs CSAW, HSF, and implement modern
-day exploitation practices.  [Osiris site](https://osiris.cyber.nyu.edu/index.php/nyusec/)
+> Cybersecurity research lab and NYU CTF Team. <br />
+Currently runs CSAW, HSF, and implement modern day exploitation practices.  [Osiris site](https://osiris.cyber.nyu.edu/index.php/nyusec/)
 
 <font size = "12" color="393f4d">CTF</font>
 ----------------------------------
@@ -41,7 +41,7 @@ day exploitation practices.  [Osiris site](https://osiris.cyber.nyu.edu/index.ph
 ----------------------------------------
 > **C/C++** : <br />
 > **Rust**: <br />
-> **Python 2.7/3.5/3.6**:Advanced understanding of language and modules such as: heapq, itertools, collections, and numpy <br />
+> **Python 2.7/3.5/3.6**: Advanced understanding of language and modules such as: heapq, itertools, collections, and numpy <br />
 > **Bash**: Advanced command line usage and scripting useful tasks for projects <br />
 > **HTML**: Building structured webpages<br />
 > **CSS**: Adding pretty,structured design to webpages and applications<br />
