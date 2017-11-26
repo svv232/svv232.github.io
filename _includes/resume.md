@@ -1,5 +1,4 @@
-<center><u>Sai Vegasena </u></center>
-======================================
+<b><font size="34"<center><u>Sai Vegasena </u></center> </font></b>
 
 **Website**: *svegas18.me* <br />
 **Email**:   *svv232@nyu.edu* <br />
