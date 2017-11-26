@@ -4,7 +4,7 @@
 **Email**:   *svv232@nyu.edu* <br />
 **Github**:  *github.com/svv232* <br />
 
-<u><font color="blue">Projects </font></u>
+<font color=#393f4d>Projects </font>
 -----------------------------------------
 - Scrapers for automated checking for simple web vulnerabilities
 - Bluetooth and device hacking 
@@ -12,7 +12,7 @@
 - Graph and Tree Collection
 - A Rusty Road
 
-<u><font color="blue">Experience</font></u>
+<font color=#393f4d>Experience</font>
 ------------------------------------------
 **Software Engineer at PiBrain**        <*12/17 - Current*> 
 > Seq2Seq implementation with tensorflow to build an cost effective assistant for small businesses
@@ -20,13 +20,13 @@
 **OSIRIS Security Lab Researcher and NYUSEC CTF Team Member**   <*11/16 - Current*>
 > Hacking
 
-<u><font color="blue">CTF</font></u>
+<font color=#393f4d>CTF</font>
 ----------------------------------
 > **CSAW 2017**: *Organizer and Problem Writer*
 
 > **HSF 2017**: *Problem Writer*
 
-<u><font color="blue">Languages</font></u>
+<font color=#393f4d>Languages</font>
 ----------------------------------------
 > **C/C++** : <br />
 > **Rust**: <br />
@@ -36,7 +36,7 @@
 > **CSS**: <br />
 > **Javascript**: <br />
 
-<u><font color="blue">Technologies/Skills</font></u>
+<font color=#393f4d>Technologies/Skills</font>
 ---------------------------------------------------
 
 > **Reverse Engineering/Binary Exploitation**: BinaryNinja, IDA-pro, Pwntools, 
@@ -50,6 +50,6 @@
 
 > **Creative**: Processing, Particles.js
 
-<u><font color="blue">Education</font></u>
+<font color=#393f4d>Education</font>
 -------------------------------------------
 > **New York University**;  B.S in Computer Science       *<2016 - 2020 (expected)>*
