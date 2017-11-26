@@ -1,11 +1,8 @@
 Sai Vegasena
 {style="text-align:center;min-height:10vh"}
 
-
 Website: svegas18.me <br />
-
 Email:   svv232@nyu.edu <br />
-
 Github:  github.com/svv232 <br />
 
 Projects
