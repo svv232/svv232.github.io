@@ -3,9 +3,11 @@ Sai Vegasena
 {:style="text-align:center;min-height:10vh"}
 
 -------------------------
-Website: svegas18.me
-Email:   svv232@nyu.edu
-Github:  github.com/svv232
+Website: svegas18.me <br />
+
+Email:   svv232@nyu.edu <br />
+
+Github:  github.com/svv232 <br />
 -------------------------
 
 Projects
@@ -35,22 +37,22 @@ C Rust Python Bash C++ HTML CSS Javascript
 Technologies/Skills
 ------------
 
--Reverse Engineering/Binary Exploitation
+*Reverse Engineering/Binary Exploitation*
 * BinaryNinja, IDA-pro, Pwntools, Pwndbg
 
--Web
+*Web*
 * Heroku, Flask, SQLi, Jekyll, Facebook API, Requests 
 
--ML
+*ML*
 * Tensorflow, Openai API
 
--Packages/Containerization
+*Packages/Containerization*
 * Cargo, Docker
 
--Creative
+*Creative*
 * Processing, Particles.js
 
 Education
-----------
+-----------
 2016 - 2020 (EXPECTED)
-:   **New York University; B.S in Computer Science
+   **New York University; B.S in Computer Science**
