@@ -41,5 +41,5 @@ Hi! I'm Sai, a software engineer in New York City.
 > (A Person but a genius!) James Simons <br />
 
 -------------------------------------------------------------------
-<center><font size = "2.5"> &copy; Sai Vegasena <a href = "https://github.com/svv232/svv232.github.io"> Source </a>  </font> </center> <br />
-<center><font size = "2.5"> <a href = "mailto:svv232@nyu.edu">Contact </a> </font> </center>
+<center><font size = "1.5"> &copy; Sai Vegasena <a href = "https://github.com/svv232/svv232.github.io" style = "text-decoration:none"> Source </a>  </font> </center> <br />
+<center><font size = "1.5"> <a href = "mailto:svv232@nyu.edu" style = "text-decoration:none">Contact </a> </font> </center>
