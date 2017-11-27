@@ -38,6 +38,4 @@ Hi! I'm Sai, a software engineer in New York City.
 > (A Person but a genius!) James Simons <br />
 
 -------------------------------------------------------------------
-hi <3
-copyright
-source
+<font size = "2"> &copy Sai Vegasena [source](https://github.com/svv232/svv232.github.io) </font>
