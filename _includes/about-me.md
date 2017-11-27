@@ -1,7 +1,7 @@
 Learn More About Me !
 ---------------------
-[Twitter](https://twitter.com/saivegasena) <br/ >
-[Flipboard](https://flipboard.com/@SaiVegasena)<br />
+[Twitter](https://twitter.com/saivegasena) <br />
+[Flipboard](https://flipboard.com/@SaiVegasena) <br />
 
 Relevant Courses
 -----------------
