@@ -1,5 +1,8 @@
-Hi! I'm Sai, a software engineer in New York City.
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:500|Roboto100"         rel="stylesheet">
+</head>
 
+Hi! I'm Sai, a software engineer in New York City.
 
 <font color = "393f4d"> Learn More About Me! </font>
 > [Twitter](https://twitter.com/saivegasena) <br />
@@ -38,4 +41,4 @@ Hi! I'm Sai, a software engineer in New York City.
 > (A Person but a genius!) James Simons <br />
 
 -------------------------------------------------------------------
-<font size = "2"> &copy Sai Vegasena [source](https://github.com/svv232/svv232.github.io) </font>
+<font size = "1"> &copy; Sai Vegasena [source](https://github.com/svv232/svv232.github.io) </font>
