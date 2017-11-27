@@ -9,16 +9,17 @@
 <font size="4" color = "393f4d"> <u>Bio</u> </font>
 Hi! I'm Sai, a software engineer with an interest in security and machine learning, based in New York City.
 
-I am now attending New York University where I am pursuing an undergraduate degree in computer science. Here, I am an active member of the cyber security lab; some of the cool things I do include working through interesting exploitation problems, and writing challenges for CSAW.
+I am now attending [New York University]() where I am pursuing an undergraduate degree in computer science. Here, I am an active member of the cyber security lab; some of the cool things I do include writing blog posts about [interesting exploitation problems, and writing challenges for CSAW](https://blog.isis.poly.edu/2017/10/21/hacklu-ctf-indianer/).
 
-* Rusty Road, A challenge I recently wrote was used during CSAW Finals.
+* [Rusty Road](https://github.com/svv232/A-Rusty-Road), A challenge I recently wrote was used during CSAW Finals.
 * Here are some of the write ups!
-> 
-> 
+> [UMBC](https://galvanizedsecurity.com/csaw/)
+> [ByteBandits](https://payatu.com/csaw-ctf-finals-2017-writeups/)
 
-Ofcourse, you can always see some of the other interesting projects I have worked on through my github, and the NYUSEC github.
+Ofcourse, you can always see some of the other interesting projects I have worked on through my [github](https://github.com/svv232), and the [NYUSEC github](https://github.com/isislab).
 
-I am currently at PiBrain working on neural machine translation and seq2seq models.
+I am currently at [PiBrain](http://pibrain.io/) working on [neural machine translation](https://github.com/svv232/nmt) and seq2seq models.
+
 
 ---------------------------------------------------------------------------------------
 <font size="4" color = "393f4d"> <u>Learn More About Me!</u> </font>
