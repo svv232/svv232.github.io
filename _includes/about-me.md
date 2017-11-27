@@ -7,7 +7,16 @@
 <center><img class = "circle" src = "https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/10978508_660446680727400_7710698905422809876_n.jpg?oh=a51b6edaff1a194c1a1be4f9111cc5af&oe=5AA5F18F" alt = "Drawing" style = "width: 200px;"/> </center>
 
 <font size="4" color = "393f4d"> <u>Bio</u> </font>
-Hi! I'm Sai, a software engineer in New York City.
+Hi! I'm Sai, a software engineer with an interest in security and machine learning, based in New York City.
+
+I am now attending New York University where I am pursuing an undergraduate degree in computer science. Here, I am an active member of the cyber security lab; some of the cool things I do include working through interesting exploitation problems, and writing challenges for CSAW.
+
+* Rusty Road, A challenge I recently wrote was used during CSAW Finals.
+* Here are some of the write ups!
+
+Ofcourse, you can always see some of the other interesting projects I have worked on through my github, and the NYUSEC github.
+
+I am currently at PiBrain working with neural machine translation and seq2seq models.
 
 
 <font size="4" color = "393f4d"> <u>Learn More About Me!</u> </font>
