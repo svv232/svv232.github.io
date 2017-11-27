@@ -5,16 +5,16 @@
 <img src = "https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/10978508_660446680727400_7710698905422809876_n.jpg?oh=a51b6edaff1a194c1a1be4f9111cc5af&oe=5AA5F18F" alt = "Drawing" style = "width: 200px;"/>
 
 
-<font size="6" color = "393f4d"> Bio </font>
+<font size="4" color = "393f4d"> Bio </font>
 Hi! I'm Sai, a software engineer in New York City.
 
 
-<font size="6" color = "393f4d"> Learn More About Me! </font>
+<font size="4" color = "393f4d"> Learn More About Me! </font>
 > [Twitter](https://twitter.com/saivegasena) <br />
 > [Flipboard](https://flipboard.com/@SaiVegasena)<br />
 
 
-<font size="6" color = "393f4d"> Relevant Courses </font>
+<font size="4" color = "393f4d"> Relevant Courses </font>
 > Data Structures and Algorithms in Python 3<br />
 > Object Oriented Programming in C++<br />
 > Discrete Mathematics<br />
@@ -22,7 +22,7 @@ Hi! I'm Sai, a software engineer in New York City.
 > Multidimensional Calculus<br />
 > Linear and Abstract Algebra<br />
 
-<font size ="6" color= "393f4d"> Books That Shaped the Way I Think </font>
+<font size ="4" color= "393f4d"> Books That Shaped the Way I Think </font>
 > Complete Wheel of Time Series<br />
 > A Song of Ice and Fire Series<br />
 > *Cosmos* <br />
