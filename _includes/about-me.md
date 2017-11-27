@@ -9,7 +9,7 @@
 <font size="4" color = "393f4d"> <u>Bio</u> </font>
 Hi! I'm Sai, a software engineer with an interest in security and machine learning, based in New York City.
 
-I am now attending [New York University]() where I am pursuing an undergraduate degree in computer science. Here, I am an active member of the cyber security lab; some of the cool things I do include writing blog posts about [interesting exploitation problems, and writing challenges for CSAW](https://blog.isis.poly.edu/2017/10/21/hacklu-ctf-indianer/).
+I am now attending [New York University]() where I am pursuing an undergraduate degree in computer science. Here, I am an active member of the [cyber security lab](https://osiris.cyber.nyu.edu/); some of the cool things I do include writing blog posts about [interesting exploitation problems, and writing challenges for CSAW](https://blog.isis.poly.edu/2017/10/21/hacklu-ctf-indianer/).
 
 * [Rusty Road](https://github.com/svv232/A-Rusty-Road), A challenge I recently wrote was used during CSAW Finals.
 * Here are some of the write ups!
@@ -52,7 +52,7 @@ I am currently at [PiBrain](http://pibrain.io/) working on [neural machine trans
 > *Rich dad Poor Dad  - Robert Kiyosaki* <br />
 > *Think and Grow Rich - Napolean Hill* <br />
 > *Thinking Fast and Slow* <br />
-> *The innovators Dilemma* <br />
+> *The Innovators Dilemma* <br />
 > *Practical Programming in C* <br />
 > *Complete Ender's Game Series* <br />
 > *The Gods Themselves -Isaac Asimov* <br />
