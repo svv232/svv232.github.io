@@ -1,9 +1,13 @@
-Learn More About Me !
+Hi! I'm Sai, a software engineer in New York City.
+
+-----------------------------------------------------------------
+
+<font color = "393f4d"> Learn More About Me! </font>
 ---------------------
 > [Twitter](https://twitter.com/saivegasena) <br />
 > [Flipboard](https://flipboard.com/@SaiVegasena) <br />
 
-Relevant Courses
+<font color = "393f4d"> Relevant Courses </font>
 -----------------
 > Data Structures and Algorithms in Python 3<br />
 > Object Oriented Programming in C++<br />
@@ -12,7 +16,7 @@ Relevant Courses
 > Multidimensional Calculus<br />
 > Linear and Abstract Algebra<br />
 
-Books That Shaped the Way I Think 
+<font color= "393f4d"> Books That Shaped the Way I Think </font>
 --------------------------------
 > Complete Wheel of Time Series<br />
 > A Song of Ice and Fire Series<br />
@@ -36,3 +40,8 @@ Books That Shaped the Way I Think
 > *The Gods Themselves -Isaac Asimov* <br />
 > *Steve Jobs -Walter Isaacson* <br />
 > (A Person but a genius!) James Simons <br />
+
+-------------------------------------------------------------------
+hi <3
+copyright
+source
