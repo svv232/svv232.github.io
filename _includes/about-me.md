@@ -2,7 +2,7 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:500|Roboto100"         rel="stylesheet">
 </head>
 
-![](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/10978508_660446680727400_7710698905422809876_n.jpg?oh=a51b6edaff1a194c1a1be4f9111cc5af&oe=5AA5F18F)
+![](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/10978508_660446680727400_7710698905422809876_n.jpg?oh=a51b6edaff1a194c1a1be4f9111cc5af&oe=5AA5F18F =100x20)
 
 
 <font size="6" color = "393f4d"> Bio </font>
