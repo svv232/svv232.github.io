@@ -5,8 +5,11 @@
 Hi! I'm Sai, a software engineer in New York City.
 
 <font color = "393f4d"> Learn More About Me! </font>
-> <font color = "1da1f2"> <a href = https://twitter.com/saivegasena >Twitter </a>  </font> <br />
-> <font color = "e12828"> <a href = https://flipboard.com/@SaiVegasena>Flipboard</a> </font> <br />
+> <font color = "1da1f2"> 
+> <font color = "e12828">
+<font color = "blue"> [Twitter](https://twitter.com/saivegasena) </font>
+<font color = "red"> [Flipboard](https://flipboard.com/@SaiVegasena) </font>
+
 
 <font color = "393f4d"> Relevant Courses </font>
 > Data Structures and Algorithms in Python 3<br />
