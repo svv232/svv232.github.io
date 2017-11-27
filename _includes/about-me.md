@@ -13,8 +13,8 @@ I am now attending [New York University]() where I am pursuing an undergraduate 
 
 * [Rusty Road](https://github.com/svv232/A-Rusty-Road), A challenge I recently wrote was used during CSAW Finals.
 * Here are some of the write ups!
-> [UMBC](https://galvanizedsecurity.com/csaw/)
-> [ByteBandits](https://payatu.com/csaw-ctf-finals-2017-writeups/)
+> [UMBC](https://galvanizedsecurity.com/csaw/) <br />
+> [ByteBandits](https://payatu.com/csaw-ctf-finals-2017-writeups/) <br />
 
 Ofcourse, you can always see some of the other interesting projects I have worked on through my [github](https://github.com/svv232), and the [NYUSEC github](https://github.com/isislab).
 
