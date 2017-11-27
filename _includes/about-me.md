@@ -1,38 +1,38 @@
 Learn More About Me !
 ---------------------
-[Twitter](https://twitter.com/saivegasena)
-[Flipboard](https://flipboard.com/@SaiVegasena)
+[Twitter](https://twitter.com/saivegasena) <br/ >
+[Flipboard](https://flipboard.com/@SaiVegasena)<br />
 
 Relevant Courses
 -----------------
-> Data Structures and Algorithms in Python 3
-> Object Oriented Programming in C++
-> Discrete Mathematics
-> Offensive Security
-> Multidimensional Calculus
-> Linear and Abstract Algebra
+> Data Structures and Algorithms in Python 3<br />
+> Object Oriented Programming in C++<br />
+> Discrete Mathematics<br />
+> Offensive Security<br />
+> Multidimensional Calculus<br />
+> Linear and Abstract Algebra<br />
 
 Books That Shaped the Way I Think 
 --------------------------------
-> Complete Wheel of Time Series
-> A Song of Ice and Fire Series
-> *Cosmos
-> Contact
-> Security Analysis
-> The Innovator's Dilemma
-> The Selfish Gene
-> Intelligent Investor
-> Stocks for the Long Run
-> Option B
-> The Start up of You
-> Zero to One
-> (Paper) Superinvestors by Warren E. Buffet
-> Rich dad Poor Dad  - Robert Kiyosaki
-> Think and Grow Rich - Napolean Hill
-> Thinking Fast and Slow 
-> The innovators Dilemma 
-> Practical Programming in C
-> Complete Ender's Game Series
-> The Gods Themselves -Isaac Asimov
-> Steve Jobs -Walter Isaacson*
-> (A Person but a genius!) James Simons
+> Complete Wheel of Time Series<br />
+> A Song of Ice and Fire Series<br />
+> *Cosmos* <br />
+> *Contact* <br />
+> *Security Analysis* <br />
+> *The Innovator's Dilemma* <br />
+> *The Selfish Gene* <br />
+> *Intelligent Investor* <br />
+> *Stocks for the Long Run* <br />
+> *Option B* <br />
+> *The Start up of You* <br />
+> *Zero to One* <br />
+> *(Paper) Superinvestors by Warren E. Buffet* <br />
+> *Rich dad Poor Dad  - Robert Kiyosaki* <br />
+> *Think and Grow Rich - Napolean Hill* <br />
+> *Thinking Fast and Slow* <br />
+> *The innovators Dilemma* <br />
+> *Practical Programming in C* <br />
+> *Complete Ender's Game Series* <br />
+> *The Gods Themselves -Isaac Asimov* <br />
+> *Steve Jobs -Walter Isaacson* <br />
+> (A Person but a genius!) James Simons <br />
