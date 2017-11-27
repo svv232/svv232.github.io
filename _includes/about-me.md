@@ -13,12 +13,14 @@ I am now attending New York University where I am pursuing an undergraduate degr
 
 * Rusty Road, A challenge I recently wrote was used during CSAW Finals.
 * Here are some of the write ups!
+> 
+> 
 
 Ofcourse, you can always see some of the other interesting projects I have worked on through my github, and the NYUSEC github.
 
-I am currently at PiBrain working with neural machine translation and seq2seq models.
+I am currently at PiBrain working on neural machine translation and seq2seq models.
 
-
+---------------------------------------------------------------------------------------
 <font size="4" color = "393f4d"> <u>Learn More About Me!</u> </font>
 > [Twitter](https://twitter.com/saivegasena) <br />
 > [Flipboard](https://flipboard.com/@SaiVegasena)<br />
