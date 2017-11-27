@@ -1,6 +1,25 @@
 html {
     background-color: #ECECEA; 
 }
+a:link    {
+  /* Applies to all unvisited links */
+  text-decoration:  none;
+  color:            blue;
+  } 
+a:visited {
+  /* Applies to all visited links */
+  text-decoration:  none;
+  color:            #f0f;
+  } 
+a:hover   {
+  /* Applies to links under the pointer */
+  text-decoration:  underline;
+  color:            #fff;
+  } 
+a:active  {
+  /* Applies to activated links */
+  text-decoration:  underline;
+  } 
 
 .circle{
     border-radius: 50%;
