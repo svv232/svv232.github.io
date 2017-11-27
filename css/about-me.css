@@ -4,7 +4,7 @@ html {
 a:link    {
   /* Applies to all unvisited links */
   text-decoration:  none;
-  color:            #393f4d;
+  color:            #5F0D0A;
   } 
 a:visited {
   /* Applies to all visited links */
@@ -14,7 +14,7 @@ a:visited {
 a:hover   {
   /* Applies to links under the pointer */
   text-decoration:  underline;
-  color:            #393f4d;
+  color:            #5F0D0A;
   } 
 a:active  {
   /* Applies to activated links */
