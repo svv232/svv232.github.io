@@ -5,8 +5,8 @@
 Hi! I'm Sai, a software engineer in New York City.
 
 <font color = "393f4d"> Learn More About Me! </font>
-> <a href = https://twitter.com/saivegasena style = "text-decoration:none;color:1da1f2">Twitter </a> <br />
-> <a href = https://flipboard.com/@SaiVegasena style = "text-decoration:none;color:e12828">Flipboard</a> <br />
+> <a href = https://twitter.com/saivegasena style="text-decoration:none;color:blue">Twitter </a> <br />
+> <a href = https://flipboard.com/@SaiVegasena style="text-decoration:none;color:red">Flipboard</a> <br />
 
 <font color = "393f4d"> Relevant Courses </font>
 > Data Structures and Algorithms in Python 3<br />
