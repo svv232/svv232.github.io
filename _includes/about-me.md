@@ -1,14 +1,11 @@
 Hi! I'm Sai, a software engineer in New York City.
 
------------------------------------------------------------------
 
 <font color = "393f4d"> Learn More About Me! </font>
----------------------
 > [Twitter](https://twitter.com/saivegasena) <br />
 > [Flipboard](https://flipboard.com/@SaiVegasena) <br />
 
 <font color = "393f4d"> Relevant Courses </font>
------------------
 > Data Structures and Algorithms in Python 3<br />
 > Object Oriented Programming in C++<br />
 > Discrete Mathematics<br />
@@ -17,7 +14,6 @@ Hi! I'm Sai, a software engineer in New York City.
 > Linear and Abstract Algebra<br />
 
 <font color= "393f4d"> Books That Shaped the Way I Think </font>
---------------------------------
 > Complete Wheel of Time Series<br />
 > A Song of Ice and Fire Series<br />
 > *Cosmos* <br />
