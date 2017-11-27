@@ -2,7 +2,7 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:500|Roboto100"         rel="stylesheet">
 </head>
 
-![](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/10978508_660446680727400_7710698905422809876_n.jpg?oh=a51b6edaff1a194c1a1be4f9111cc5af&oe=5AA5F18F =100x20)
+<img src = "https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/10978508_660446680727400_7710698905422809876_n.jpg?oh=a51b6edaff1a194c1a1be4f9111cc5af&oe=5AA5F18F" alt = "Drawing" style = "width: 200px;"/>
 
 
 <font size="6" color = "393f4d"> Bio </font>
@@ -47,5 +47,5 @@ Hi! I'm Sai, a software engineer in New York City.
 > (A Person but a genius!) James Simons <br />
 
 -------------------------------------------------------------------
-<center><font size = "1.5"> &copy; Sai Vegasena <a href = "https://github.com/svv232/svv232.github.io" style = "text-decoration:none"> Source </a>  </font> </center> <br />
+<center><font size = "1.5"> &copy; Sai Vegasena <a href = "https://github.com/svv232/svv232.github.io" style = "text-decoration:none"> Source </a>  </font> </center>
 <center><font size = "1.5"> <a href = "mailto:svv232@nyu.edu" style = "text-decoration:none">Contact </a> </font> </center>
