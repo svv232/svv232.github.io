@@ -4,7 +4,7 @@
 **Email**:   *svv232@nyu.edu* <br />
 **Github**:  *github.com/svv232* <br />
 
-<font size ="1" color="393f4d">Projects </font>
+<font size ="6" color="393f4d">Projects </font>
 -----------------------------------------
 ***Bluetooth Takeover***
 * <i><u>12/17 - Current </u></i> <br />
@@ -24,7 +24,7 @@ A collection of traversal algorithms and tree structures that aid in developing 
 A Reverse Engineering game involving a hashmaps, breadthfirst traversal, and an
 efficient sieve of eratoshenes written in rust.
 
-<font size = "1" color="393f4d">Experience</font>
+<font size = "6" color="393f4d">Experience</font>
 ------------------------------------------
 **Software Engineer at PiBrain**    <*11/17 - Current*> 
 > Seq2Seq implementation using tensorflow and neural machine translation to build a cost effective assistant for small businesses  [Pibrain site](http://pibrain.io)
@@ -32,13 +32,13 @@ efficient sieve of eratoshenes written in rust.
 **OSIRIS Lab Researcher and NYUSEC CTF Team Member**   <*12/16 - Current*>
 > Cybersecurity research lab and NYU CTF Team. Currently runs CSAW, HSF, and practices modern day exploitation.  [Osiris site](https://osiris.cyber.nyu.edu/index.php/nyusec/)
 
-<font size = "1" color="393f4d">CTF</font>
+<font size = "6" color="393f4d">CTF</font>
 ----------------------------------
 > **CSAW 2017**: *Organizer and Problem Writer*
 
 > **HSF 2017**: *Problem Writer*
 
-<font size = "1" color="393f4d">Languages</font>
+<font size = "6" color="393f4d">Languages</font>
 ----------------------------------------
 > **C/C++**: Writing high performance code, familiar with SDL, and Object Oriented Ideas  <br />
 > **Rust**: Fast, memory safe code; decent understanding of package format and libraries<br />
@@ -49,7 +49,7 @@ efficient sieve of eratoshenes written in rust.
 > **CSS**: Adding pretty,colored design to webpages and applications<br />
 > **Javascript**: Adept at using npm packages and website scripting to efficiently interact with web servers <br />
 
-<font size = "1" color="393f4d">Technologies/Skills</font>
+<font size = "6" color="393f4d">Technologies/Skills</font>
 ---------------------------------------------------
 
 > **Reverse Engineering/Binary Exploitation**: BinaryNinja, IDA-pro, Pwntools, 
@@ -59,6 +59,6 @@ efficient sieve of eratoshenes written in rust.
 > **Package Managers/Containers**: Cargo, Docker <br />
 > **Creative**: Processing, Particles.js <br />
 
-<font size = "1" color="393f4d">Education</font>
+<font size = "6" color="393f4d">Education</font>
 -------------------------------------------
 > **New York University**;  B.S in Computer Science     *<2016 - 2020 (expected)>*
