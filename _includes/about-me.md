@@ -34,6 +34,10 @@ I am currently at [PiBrain](http://pibrain.io/) working on [neural machine trans
 > Offensive Security<br />
 > Multidimensional Calculus<br />
 > Linear and Abstract Algebra<br />
+> Design and Analysis of Algorithms<br />
+> Networking and Socket Programming<br />
+> Computer Architecture <br />
+> Data Analysis <b />
 
 <font size ="4" color= "393f4d"> <u>Books That Shaped the Way I Think</u> </font>
 > Complete Wheel of Time Series<br />
