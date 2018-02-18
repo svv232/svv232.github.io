@@ -8,7 +8,7 @@
 -----------------------------------------
 ***Horus***
 * <i><u>1/25 - Current </u></i> <br />
-The end goal for the project is to create a pluggable framework that can easily be added to that queries "the internet" and puts it into a gigantic DB which can then be queried as new "template vulnerabilities" are found.
+The end goal for the project is to create a pluggable framework that queries and puts "the internet" into a gigantic DB which can then be queried as new "template vulnerabilities" are found.
 
 ***PiBrain Assistant***
 * <i><u>11/17 - Current</u></i> <br />
