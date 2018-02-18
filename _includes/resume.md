@@ -6,10 +6,9 @@
 
 <font size ="6" color="393f4d">Projects </font>
 -----------------------------------------
-***Bluetooth Takeover***
-* <i><u>12/17 - Current </u></i> <br />
-Current research in taking control of smaller ,vulnerable devices to gain 
-greater acces to an entire network.
+***Horus***
+* <i><u>1/25 - Current </u></i> <br />
+The end goal for the project is to create a pluggable framework that can easily be added to that queries "the internet" and puts it into a gigantic DB which can then be queried as new "template vulnerabilities" are found.
 
 ***PiBrain Assistant***
 * <i><u>11/17 - Current</u></i> <br />
@@ -17,7 +16,7 @@ Modeling an encoder and decoder neural network to simulate language understandin
 
 ***Tree Collection*** 
 * <i><u>10/16 - Current</u></i> <br />
-A collection of traversal algorithms and tree structures that aid in developing a cohesive understanding of algorithm analysis. Currently Implementing a VanEmbde Boa Tree in C to understand O(log log M) search, insert, and delete.
+A collection of traversal algorithms and tree structures that aid in developing a cohesive understanding of algorithm analysis.
 
 ***A Rusty Road***
 * <i><u>10/17 - CSAW 2017 Finals</u></i> <br />
@@ -45,16 +44,15 @@ efficient sieve of eratoshenes written in rust.
 > **Python 2.7/3.5/3.6**: Advanced understanding of language and modules such as: heapq, itertools, collections, and numpy <br />
 > **Bash**: Advanced command line usage and scripting useful tasks for projects <br />
 > **HTML**: Building structured webpages<br />
-> **SQL**: Common and advanced database queries<br />
+> **SQL**: Designing and implementing relational dbs with sqlalchemy<br />
 > **CSS**: Adding pretty,colored design to webpages and applications<br />
 > **Javascript**: Adept at using npm packages and website scripting to efficiently interact with web servers <br />
 
 <font size = "6" color="393f4d">Technologies/Skills</font>
 ---------------------------------------------------
-
-> **Reverse Engineering/Binary Exploitation**: BinaryNinja, IDA-pro, Pwntools, 
+> **Reverse Engineering/Binary Exploitation**: BinaryNinja, IDA-pro, Angr, Pwntools, 
  Pwndbg, GDB <br />
-> **Web**: Heroku, Flask, SQLi/MySQL, Jekyll, Facebook API, Requests, Git  <br />
+> **Web**: Heroku, Flask, MySQL/SQLAlchemy, Jekyll, Facebook API, Requests, Git <br />
 > **ML**: Tensorflow, Openai API <br />
 > **Package Managers/Containers**: Cargo, Docker <br />
 > **Creative**: Processing, Particles.js <br />
