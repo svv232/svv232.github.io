@@ -36,7 +36,7 @@ A collection of traversal algorithms and tree structures that aid in developing 
 > **Bash**: Advanced command line usage and scripting useful tasks for projects <br />
 > **HTML**: Building structured webpages<br />
 > **SQL**: Designing and implementing relational dbs with sqlalchemy<br />
-> **CSS**: Adding pretty,colored design to webpages and applications<br />
+> **CSS**: Adding pretty, colored design to webpages and applications<br />
 > **Javascript**: Adept at using npm packages and website scripting to efficiently interact with web servers <br />
 <font size = "6" color="393f4d">Technologies/Skills</font>
 ---------------------------------------------------
