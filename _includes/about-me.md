@@ -4,7 +4,7 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:500|Roboto100"         rel="stylesheet">
 </head>
 
-<center><img class = "circle" src = "https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/10978508_660446680727400_7710698905422809876_n.jpg?oh=a51b6edaff1a194c1a1be4f9111cc5af&oe=5AA5F18F" alt = "Drawing" style = "width: 200px;"/> </center>
+<center><img class = "circle" src = "https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/10978508_660446680727400_7710698905422809876_n.jpg?_nc_cat=0&oh=3e8fbc903daeaa9325e63f0e17b6e87e&oe=5B6BB28F" alt = "Drawing" style = "width: 200px;"/> </center>
 
 <font size="4" color = "393f4d"> <u>Bio</u> </font>
 Hi! I'm Sai, a software engineer with an interest in security and machine learning, based in New York City.
