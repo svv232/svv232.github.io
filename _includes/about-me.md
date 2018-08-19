@@ -18,8 +18,7 @@ I am now attending [New York University]() where I am pursuing an undergraduate 
 
 Ofcourse, you can always see some of the other interesting projects I have worked on through my [github](https://github.com/svv232), and the [NYUSEC github](https://github.com/isislab).
 
-I am currently at [PiBrain](http://pibrain.io/) working on [neural machine translation](https://github.com/svv232/nmt) and seq2seq models.
-
+My most recent experience was at [MWR Infosecurity an F-Secure Company](https://www.mwrinfosecurity.com/) working on penetration tests, and research on coverage guided fuzzing with a tool called [Kleenex](https://github.com/svv232/Kleenex). It is a C++ wrapper around KLEE and AFL for dynamic test case generation from KLEE and mutation based fuzzing from these test cases in AFL.
 
 ---------------------------------------------------------------------------------------
 <font size="4" color = "393f4d"> <u>Learn More About Me!</u> </font>
@@ -37,7 +36,13 @@ I am currently at [PiBrain](http://pibrain.io/) working on [neural machine trans
 > Design and Analysis of Algorithms<br />
 > Networking and Socket Programming<br />
 > Computer Architecture <br />
-> Data Analysis <b />
+> Data Analysis <br />
+> Operating Systems <br />
+> Operating Systems <br />
+> Databases <br />
+> Computer Graphics <br />
+> Artificial Intelligence <br />
+
 
 <font size ="4" color= "393f4d"> <u>Books That Shaped the Way I Think</u> </font>
 > Complete Wheel of Time Series<br />
