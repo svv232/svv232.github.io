@@ -18,7 +18,7 @@ I am now attending [New York University]() where I am pursuing an undergraduate 
 
 Ofcourse, you can always see some of the other interesting projects I have worked on through my [github](https://github.com/svv232), and the [NYUSEC github](https://github.com/isislab).
 
-My most recent experience was at [MWR Infosecurity an F-Secure Company](https://www.mwrinfosecurity.com/) working on penetration tests, and research on coverage guided fuzzing with a tool called [Kleenex](https://github.com/svv232/Kleenex). It is a C++ wrapper around KLEE and AFL for dynamic test case generation from KLEE and mutation based fuzzing from these test cases in AFL.
+My most recent experience was at [MWR Infosecurity an F-Secure Company](https://www.mwrinfosecurity.com/) working on penetration tests, and research on coverage guided fuzzing where I wrote a tool called [Kleenex](https://github.com/svv232/Kleenex). It is a C++ wrapper around KLEE and AFL for dynamic test case generation from KLEE and mutation based fuzzing from these test cases with AFL.
 
 ---------------------------------------------------------------------------------------
 <font size="4" color = "393f4d"> <u>Learn More About Me!</u> </font>
