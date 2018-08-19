@@ -42,7 +42,7 @@ Modeling an encoder and decoder neural network to simulate language understandin
 <font size = "6" color="393f4d">Languages</font>
 ----------------------------------------
 > **C/C++**: Writing high performance code, LLVM API, SDL and Object Oriented Ideas  <br />
-> **LLVM**: Advanced usage of LLVM tools and compiler IR
+> **LLVM**: Advanced usage of LLVM tools and compiler IR <br />
 > **Rust**: Fast, memory safe code; decent understanding of package format and libraries<br />
 > **Python 2.7/3.5/3.6**: Advanced understanding of language and modules such as: multiprocessing, subprocess, heapq, itertools, collections, and numpy <br />
 > **Bash**: Advanced command line usage for scripting and pen-testing <br />
