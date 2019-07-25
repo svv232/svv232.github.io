@@ -1,5 +1,5 @@
 <b> <font size="36" color="393f4d"> <center>Sai Vegasena</center> </font></b>
-[Click Here For a Condensed Version](https://github.com/svv232/svv232.github.io/blob/master/updated%20resume(1).pdf) <br />
+[Click Here For a Condensed Version](https://github.com/svv232/svv232.github.io/blob/master/resume.pdf) <br />
 
 **Website**: *svegas18.me* <br />
 **Email**:   *svv232@nyu.edu* <br />
