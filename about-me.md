@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-theme: None
+theme: jekyll-theme-minimal
 permalink:/about-me
 ---
 {% include about-me.md %}
